@@ -685,7 +685,7 @@ checksum = "f7144d30dcf0fafbce74250a3963025d8d52177934239851c917d29f1df280c2"
 [[package]]
 name = "cpi-helper"
 version = "0.1.0"
-source = "git+https://github.com/SpringChiu/LayerZero-v2.git?branch=main#7ee2e54145461d6a0621163b0ba0fd6929702796"
+source = "git+https://github.com/SpringChiu/LayerZero-v2.git?tag=v0.0.1#7ee2e54145461d6a0621163b0ba0fd6929702796"
 dependencies = [
  "bs58 0.5.1",
  "proc-macro2",
@@ -892,7 +892,7 @@ checksum = "3dca9240753cf90908d7e4aac30f630662b02aebaa1b58a3cadabdb23385b58b"
 [[package]]
 name = "endpoint"
 version = "0.1.0"
-source = "git+https://github.com/SpringChiu/LayerZero-v2.git?branch=main#7ee2e54145461d6a0621163b0ba0fd6929702796"
+source = "git+https://github.com/SpringChiu/LayerZero-v2.git?tag=v0.0.1#7ee2e54145461d6a0621163b0ba0fd6929702796"
 dependencies = [
  "anchor-lang",
  "cpi-helper",
@@ -1255,7 +1255,7 @@ dependencies = [
 [[package]]
 name = "messagelib-interface"
 version = "0.1.0"
-source = "git+https://github.com/SpringChiu/LayerZero-v2.git?branch=main#7ee2e54145461d6a0621163b0ba0fd6929702796"
+source = "git+https://github.com/SpringChiu/LayerZero-v2.git?tag=v0.0.1#7ee2e54145461d6a0621163b0ba0fd6929702796"
 dependencies = [
  "anchor-lang",
 ]
@@ -1355,7 +1355,7 @@ dependencies = [
 [[package]]
 name = "oapp"
 version = "0.1.0"
-source = "git+https://github.com/SpringChiu/LayerZero-v2.git?branch=main#7ee2e54145461d6a0621163b0ba0fd6929702796"
+source = "git+https://github.com/SpringChiu/LayerZero-v2.git?tag=v0.0.1#7ee2e54145461d6a0621163b0ba0fd6929702796"
 dependencies = [
  "anchor-lang",
  "endpoint",
@@ -2473,7 +2473,7 @@ dependencies = [
 [[package]]
 name = "utils"
 version = "0.1.0"
-source = "git+https://github.com/SpringChiu/LayerZero-v2.git?branch=main#7ee2e54145461d6a0621163b0ba0fd6929702796"
+source = "git+https://github.com/SpringChiu/LayerZero-v2.git?tag=v0.0.1#7ee2e54145461d6a0621163b0ba0fd6929702796"
 dependencies = [
  "anchor-lang",
 ]
